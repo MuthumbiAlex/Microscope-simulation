@@ -1,6 +1,6 @@
 %% simulating image formation using a microscope
 
-% Alex Kariuki Muthumbi, 18th August 2019
+% Alex Kariuki Muthumbi, 3rd September, 2019
 
 %% Steps to take
 %   - create the spatial coordinates, illuminating beam and simulate image being
